@@ -4,4 +4,7 @@
 ####第四
 #####第五
 ######第六
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![ Yaktocat 图片] ( https://octodex.github.com/images/yaktocat.png )
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+var myVar = "Hello,World!";
